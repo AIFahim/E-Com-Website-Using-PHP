@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'orbitronv9latinregular';
+    src: url('orbitron-v9-latin/orbitronv9latinregular.eot');
+    src: url('orbitron-v9-latin/orbitronv9latinregular.eot') format('embedded-opentype'),
+         url('orbitron-v9-latin/orbitronv9latinregular.woff2') format('woff2'),
+         url('orbitron-v9-latin/orbitronv9latinregular.woff') format('woff'),
+         url('orbitron-v9-latin/orbitronv9latinregular.ttf') format('truetype'),
+         url('orbitron-v9-latin/orbitronv9latinregular.svg#orbitronv9latinregular') format('svg');
+}

@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'OpenSansRegular';
+    src: url('OpenSansRegular/OpenSansRegular.eot');
+    src: url('OpenSansRegular/OpenSansRegular.eot') format('embedded-opentype'),
+         url('OpenSansRegular/OpenSansRegular.woff2') format('woff2'),
+         url('OpenSansRegular/OpenSansRegular.woff') format('woff'),
+         url('OpenSansRegular/OpenSansRegular.ttf') format('truetype'),
+         url('OpenSansRegular/OpenSansRegular.svg#OpenSansRegular') format('svg');
+}
+@font-face {
+    font-family: 'orbitronv9latinregular';
+    src: url('orbitron-v9-latin/orbitronv9latinregular.eot');
+    src: url('orbitron-v9-latin/orbitronv9latinregular.eot') format('embedded-opentype'),
+         url('orbitron-v9-latin/orbitronv9latinregular.woff2') format('woff2'),
+         url('orbitron-v9-latin/orbitronv9latinregular.woff') format('woff'),
+         url('orbitron-v9-latin/orbitronv9latinregular.ttf') format('truetype'),
+         url('orbitron-v9-latin/orbitronv9latinregular.svg#orbitronv9latinregular') format('svg');
+}

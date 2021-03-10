@@ -8,8 +8,6 @@
 
 <hr>
 
-<hr>
-
 # Author: Md. Asif Iqbal Fahim
 
 Department of Computer Science & Engineering, </br>
